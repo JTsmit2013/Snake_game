@@ -29,6 +29,9 @@ To install `pygame`, run the following command:
 - Avoid running into the walls or the snake's own body.
 - The score increases every time the snake eats food.
 
+## Screenshots
+<img width="452" alt="snake_screenshot" src="https://github.com/user-attachments/assets/316aab6c-848e-4bd7-bc56-84b6b1b4fa7f" />
+
 ## Game Logic
 
 - **Food**: Appears randomly on the grid and is red in color.
