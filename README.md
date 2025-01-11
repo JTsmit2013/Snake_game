@@ -20,8 +20,7 @@ Download and install Python from the official website: https://www.python.org/do
 ### Install Pygame
 To install `pygame`, run the following command:
 
-```bash
-pip install pygame
+`pip install pygame`
 
 ## How to Play
 
@@ -56,9 +55,7 @@ When the game ends, the snake resets, and the score is set to zero.
 
 1. Save the Python script.
 2. Run the script using Python:
-
-```bash
-python snake_game.py
+`python snake.py`
 3. The game window will open, and you can start playing.
 
 ## Customization
